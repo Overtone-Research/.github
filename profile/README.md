@@ -1,5 +1,7 @@
 # Overtone Research
 
+![Overtone Research event-risk collage](./assets/overtone-readme-banner.png)
+
 Overtone Research is a lab for AI-native event-risk research.
 
 We build small technical experiments that turn fragmented event, market, and asset information into readable risk warnings, exposure watchlists, and early index methodology.
@@ -35,4 +37,3 @@ Internal scratch work, failed experiments, and unfinished automation stay privat
 ## Links
 
 - X: [@OvertoneRes](https://x.com/OvertoneRes)
-
